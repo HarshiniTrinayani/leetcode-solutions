@@ -8,10 +8,4 @@ Welcome to my problem-solving repository! Instead of just solving problems one b
 
 I document my progress here to track my growth in Data Structures and Algorithms (DSA) and to keep myself accountable on my path to becoming a better developer.
 
-### 🛠️ Patterns I'm Mastering
-    **Sliding Window** (Efficiently handling arrays/strings)
-    **Two Pointers** (Optimizing search and comparisons)
-    **Fast & Slow Pointers** (Linked list cycles)
-    **Breadth-First Search (BFS) / DFS** (Tree & Graph traversals)
-    **Dynamic Programming** (Optimizing recursive solutions)
 
